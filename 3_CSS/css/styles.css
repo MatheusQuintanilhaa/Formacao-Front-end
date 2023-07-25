@@ -124,3 +124,16 @@ h2 {
   padding: 10px;
   color: #fff;
 }
+
+/* Centralizando bg image*/
+.not-centered-bg,
+.centered-bg {
+  height: 400px;
+  width: 400px;
+  background-image: url("../img/bridge.jpg");
+}
+
+.centered-bg {
+  background-position: center;
+  background-size: cover;
+}
