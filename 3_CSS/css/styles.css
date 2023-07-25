@@ -7,9 +7,9 @@ h3 {
   color: green;
 }
 
-p {
+/* p {
   color: blueviolet;
-}
+} */
 
 /* Algum comentario */
 /* Mais um comentario */
@@ -98,4 +98,16 @@ h2 {
 .bg-2 {
   background-color: rgb(200, 20,40);
   color: #00eaff;
+}
+
+/* Background Opacity */
+.bg-opacity {
+  background-color: green;
+  opacity: .02;
+}
+
+.bg-opacity-2 {
+  background-color: #999;
+  color: #000;
+  opacity: .08;
 }
