@@ -9,3 +9,4 @@ Bem-vindo ao repositório da **Formação Front-end**! Aqui você encontrará tu
 3. **React**: Trabalhe na prática com todos os recursos da biblioteca React. Aprenda conceitos essenciais, como componentização, state lift, props, Context API, hooks e muito mais. Desenvolva projetos utilizando as melhores práticas de código (Clean Code) e aprimore suas habilidades como desenvolvedor.
 
 4. **Imersão em TypeScript**: Aprofunde-se no TypeScript, explorando seus principais recursos. O foco principal será a utilização do TypeScript em projetos React, uma demanda cada vez mais requisitada pelas empresas. Aprenda a escrever código seguro, com tipagem estática e aproveite todos os benefícios dessa poderosa linguagem de programação.
+# hDC-HOST
