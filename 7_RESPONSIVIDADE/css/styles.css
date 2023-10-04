@@ -1,0 +1,41 @@
+/* 2 - media query */
+h1 {
+  color: red;
+}
+
+@media screen and (max-width: 500px) {
+  h1 {
+    color: blue;
+  }
+}
+
+/* 3 - min-width */
+p {
+  background-color: red;
+  color: black;
+}
+
+@media screen and (min-width: 800px) {
+  p {
+    background-color: #789;
+    color: red;
+  }
+}
+
+/* 4 - landscpae */
+h3 {
+  display: none;
+}
+
+@media screen and (orientation: landscape) {
+  h3 {
+    display: block;
+  }
+}
+
+/* padrão de breakpoint */
+/* 600px e abaixo: celular */
+/* 768px ate 600px: tables */
+/* 992px ate 768: mini laptops */
+/* 992px e acima: laptops e desktop */
+/* É comum em projetos profissionais utilizarmos estes valores para desenvolvermos para diferentes dispositivos */
